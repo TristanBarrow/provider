@@ -1,6 +1,6 @@
 const FedComp = () => {
     return (
-        <div>A different thing.</div>
+        <div>This is a Federated Component</div>
     )
 }
 
